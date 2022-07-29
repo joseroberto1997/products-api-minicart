@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server server.json --port 3333"
+    "server": "json-server server.json --port 3333",
+    "start": "json-server server.json --port 3333"
   },
   "keywords": [],
   "author": "",
